@@ -1,0 +1,7 @@
+name: HelloWorld
+main: mcpe.popkechupki.helloworld.HelloWorld
+version: 1.0
+api: ["1.0.0"]
+author: SASAMISAN
+load: POSTWORLD
+description: "プレイヤーが参加したらHello, Worldとプレイヤーに送信する"
